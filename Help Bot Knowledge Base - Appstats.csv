@@ -1,0 +1,32 @@
+Type,Name,Resource
+Wiki,Appstats & Revstats Wiki Home,https://wiki.veevadev.com/spaces/VQ/pages/451445679/AppStats+RevStats
+Wiki,Appstats Home,https://wiki.veevadev.com/spaces/AP/pages/420403939/AppStats+Home
+Help Channel,help-platform-appstats,https://mattermost.veevadev.com/vault-products/channels/help-platform-internal-tools
+Help Channel,help-platform-internal-tools,https://mattermost.veevadev.com/vault-products/channels/help-platform-app-stats
+Wiki,How to Collect & Push Stats form VMC to Appstats,https://wiki.veevadev.com/spaces/VQ/pages/751584686/AppStats+QA+-+How+to+Collect+and+Push+Stats+from+VMC+to+AppStats
+Wiki,How AppStats Gets it Data,https://wiki.veevadev.com/spaces/VQ/pages/751584693/AppStats+QA+-+How+AppStats+Gets+its+Data
+Misc,Appstats gitlab repo,https://gitlab.veevadev.com/veevaappstats/app-stats
+Wiki,Postman API Collection,https://wiki.veevadev.com/spaces/VQ/pages/751571875/AppStats+QA+-+Postman+API+Collection
+Wiki,How Stat Sources Authenticate w/ Appstats,https://wiki.veevadev.com/spaces/VQ/pages/751584714/AppStats+QA+-+How+Stat+Sources+Authenticate+with+AppStats
+Misc,Gitlab Runners,https://wiki.veevadev.com/spaces/AP/pages/899255524/Gitlab+Runners
+Misc,Appstats Help - Developer Guide,https://appstats.veeva.com/docs
+Misc,OrgWiki Community - AppStats Users,https://veeva.theorgwiki.com/groups/appstats-users/
+Misc,Share - AppStats,https://veeva.veevashare.com/0262d0f66231801000/
+Misc,Appstats Help - Stat Descriptions,https://appstats.veeva.com/help/stat-descriptions
+Wiki,Accessing AppStats RDS DB Instance,https://wiki.veevadev.com/spaces/AP/pages/562846359/Accessing+AppStats+RDS+DB+Instance
+Wiki,AMC: AppStats Management Console,https://wiki.veevadev.com/spaces/AP/pages/453306238/AMC+AppStats+Management+Console
+Wiki,Connecting local VMC and Appstats,https://wiki.veevadev.com/spaces/AP/pages/580611217/Connecting+local+VMC+and+AppStats
+Wiki,Creating a Release Branch,https://wiki.veevadev.com/spaces/AP/pages/474524416/Creating+a+Release+Branch
+Wiki,Developer Environment Setup,https://wiki.veevadev.com/spaces/AP/pages/474524416/Creating+a+Release+Branch
+Wiki,Get Current Build Version,https://wiki.veevadev.com/spaces/AP/pages/430064779/Get+Current+Build+Version
+Wiki,How To: Authentincate API Requests via Browser Cookies,https://wiki.veevadev.com/spaces/AP/pages/432248827/How+To+Authenticate+API+Requests+via+Browser+Cookies
+Wiki,Test Automation,https://wiki.veevadev.com/spaces/VQ/pages/579997499/AppStats+QA+-+Test+Automation
+Wiki,Automation Development,https://wiki.veevadev.com/spaces/VQ/pages/751586042/AppStats+QA+-+Automation+Development
+Wiki,Automation Setup and Guidelines,https://wiki.veevadev.com/spaces/VQ/pages/580589311/AppStats+QA+-+Automation+Setup+and+Guidelines
+Wiki,Automation Strategy,https://wiki.veevadev.com/spaces/VQ/pages/858678583/AppStats+QA+-+Automation+Strategy+v4
+Wiki,Gitlab Automation Pipeline Parameters,https://wiki.veevadev.com/spaces/VQ/pages/920200984/AppStats+QA+-+GitLab+Automation+Pipeline+Parameters
+Wiki,AMC Local Development,https://wiki.veevadev.com/spaces/AP/pages/464663499/AMC+Local+Development
+Wiki,Appstats Deployment and Release Manual,https://wiki.veevadev.com/spaces/AP/pages/464663510/AppStats+Deployment+and+Release+Manual
+Wiki,Appstats Infra Provisioning,https://wiki.veevadev.com/spaces/AP/pages/484629391/AppStats+Infrastructure+Provisioning
+Wiki,Running AMC on EC2,https://wiki.veevadev.com/spaces/AP/pages/552141262/Running+AMC+on+EC2
+Misc,app gitlab repo,https://gitlab.veevadev.com/veevaappstats/app-stats/-/tree/develop/app?ref_type=heads
